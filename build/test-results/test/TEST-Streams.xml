@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Streams" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-23T14:10:29" hostname="dakla-M" time="0.024">
+  <properties/>
+  <testcase name="real" classname="Streams" time="0.024"/>
+  <system-out><![CDATA[6423 | Gagarin         Jury       age 26 MANAGER
+1543 | Gagarin         Jane       age 28 MANAGER
+ 723 | Smith           Joe        age 30 MANAGER
+
+ 123 | Bosh            Jack       age 54 WORKER
+5543 | London          Jack       age 53 WORKER
+1534 | London          Same       age 52 MANAGER
+2456 | Bosh            Andrew     age 44 WORKER
+
+IntSummaryStatistics{count=16, sum=600, min=22, average=37,500000, max=54}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

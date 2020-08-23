@@ -1,0 +1,10 @@
+16423 | Gagarin         Jury       age 26 MANAGER
+11543 | Gagarin         Jane       age 28 MANAGER
+1 723 | Smith           Joe        age 30 MANAGER
+
+0 123 | Bosh            Jack       age 54 WORKER
+05543 | London          Jack       age 53 WORKER
+11534 | London          Same       age 52 MANAGER
+02456 | Bosh            Andrew     age 44 WORKER
+
+KIntSummaryStatistics{count=16, sum=600, min=22, average=37,500000, max=54}
